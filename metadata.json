@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NiftyPredict AI",
+  "description": "Indian stock market price predictor with real-time Nifty 50 technical analysis, machine learning algorithms, and Gemini AI quantitative forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
